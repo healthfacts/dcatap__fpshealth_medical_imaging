@@ -1,0 +1,29 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "d6e9a95d-0095-0c0f-65e5-59fc73717457",
+    "title": "Overzicht van zware toestellen voor medische beeldvorming: CT (2022)",
+    "description": "Since 03/02/2016, the registration of a number of heavy medical imaging equipment has been mandatory. The legal basis for this is laid down in the Royal Decree of 19 January 2016. The registration must be done in the national registry for medical imaging equipment. The national registry is an important tool for policy regarding medical imaging equipment. Registration in this registry is, in addition to the necessary permits and approvals, a condition for reimbursement for the investigations carried out on the registered device. Registration is mandatory for the following types of devices: CT; PET including PET-CT and PET-MRI; SPECT-CT and MRI.",
+    "publisher": "Federal Public Service Public Health, Food Chain Safety and Environment",
+    "downloadURL": "https://github.com/healthfacts/distributions_fpshealth_medical_imaging/blob/main/fpshealth_medical_imaging_20220101_CT_nl.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_fpshealth_medical_imaging/blob/main/fpshealth_medical_imaging_20220101_CT_nl.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 27565,
+    "modificationDate": "2023-11-20 13:21:59",
+    "status": "completed",
+    "language": "nl",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://www.health.belgium.be/nl/faq-medische-beeldvorming; https://www.health.belgium.be/fr/faq-imagerie-medicale",
+    "keyword": [
+        "Federal Public Service Public Health, Food Chain Safety and Environment"
+    ],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "b2003490-4517-4041-8d70-6610404c12bd",
+        "title": "Medical imaging equipment in Belgian hospitals",
+        "landingPage": "https://www.health.belgium.be/en/node/24105",
+        "contactPoint": "FPS Public Health, Food Chain Safety and Environment, Directorate General of Healthcare, Data and Policy Information Service, Galileelaan 5/01, 1210 Brussels, Belgium",
+        "contactPointEmail": "info.aimbv@health.fgov.be"
+    }
+}
